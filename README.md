@@ -1,4 +1,6 @@
-### Hi Dnyaneshwar kale here 👋
+### Experienced IT Professional with 9+ years specializing in full stack Java development using Spring Boot microservices and AWS. Expertise includes continuous learning of new technologies and proven leadership in successful project deliveries 
+
+👋
 
 <!--
 **dnayenshwar-kale/dnayenshwar-kale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
