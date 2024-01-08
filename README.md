@@ -1,5 +1,5 @@
 # Dnyaneshwar Kale
-Experienced IT Professional with 8+ years specializing in full stack Java development using Spring Boot microservices and AWS. Proven leadership in successful project deliveries with continuous learning of new technologies.
+Experienced IT Professional with 9+ years specializing in full stack Java development using Spring Boot microservices and AWS. Proven leadership in successful project deliveries with continuous learning of new technologies.
 
 ## Professional Summary
 Java Full Stack Developer with strong experience in developing and supporting enterprise applications. Expertise in Microservices, Spring Data JPA, Spring Boot, and REST API. Successfully developed enterprise APIs for domains like Telecom, Banking, and Insurance. Thorough understanding and experience in agile software development. Certified AWS Developer Associate with practical experience in AWS services.
